@@ -6,6 +6,7 @@
 - 그 밖의 작가가 그린 그림은 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 라이선스를 따름.
 - 온라인 연결: [PeerJS](https://github.com/peers/peerjs) 1.5.5 (MIT, `assets/lib/peerjs-LICENSE.txt`)
 - 온라인 계정: [supabase-js](https://github.com/supabase/supabase-js) 2.118.0 (MIT, `assets/lib/supabase-LICENSE.txt`)
+- 스토리 모드 GBA 에뮬레이터: [GBA.js](https://github.com/endrift/gbajs) (Jeffrey Pfau, 2-clause BSD, `assets/lib/gbajs-LICENSE.txt`), npm `gbajs` 1.1.2를 브라우저용으로 묶음(`tools/bundle-gbajs.js`). 함께 든 BIOS(`assets/lib/gbajs-bios.bin`)도 GBA.js가 직접 만든 대체 BIOS. 게임 롬은 들어 있지 않음
 - 영어·일본어 포켓몬·기술 이름: [PokéAPI](https://pokeapi.co) 공개 데이터
 - 글꼴: [Galmuri](https://github.com/quiple/galmuri) (SIL Open Font License, `assets/fonts/ofl.md`).
 - 이 프로젝트는 비상업 개인 팬게임. 어떤 형태로도 판매·후원·광고 수익을 받지 않음.
