@@ -5,6 +5,7 @@
 - 작가가 **CHUNSOFT**로 표시된 그림은 『포켓몬 불가사의 던전』 시리즈의 공식 원본. 저작권은 Nintendo / Creatures / GAME FREAK / Spike Chunsoft에 있고 CC 라이선스 대상이 아님.
 - 그 밖의 작가가 그린 그림은 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 라이선스를 따름.
 - 온라인 연결: [PeerJS](https://github.com/peers/peerjs) 1.5.5 (MIT, `assets/lib/peerjs-LICENSE.txt`)
+- 온라인 계정: [supabase-js](https://github.com/supabase/supabase-js) 2.118.0 (MIT, `assets/lib/supabase-LICENSE.txt`)
 - 영어·일본어 포켓몬·기술 이름: [PokéAPI](https://pokeapi.co) 공개 데이터
 - 글꼴: [Galmuri](https://github.com/quiple/galmuri) (SIL Open Font License, `assets/fonts/ofl.md`).
 - 이 프로젝트는 비상업 개인 팬게임. 어떤 형태로도 판매·후원·광고 수익을 받지 않음.
