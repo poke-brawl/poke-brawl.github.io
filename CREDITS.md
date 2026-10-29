@@ -175,3 +175,4 @@
 | #0446 | 먹고자 | [CHUNSOFT](https://www.spike-chunsoft.com/) | [CHUNSOFT](https://www.spike-chunsoft.com/) |
 
 포켓몬 브롤은 비공식·무료·비영리 팬게임 (광고·결제·후원 없음). 닌텐도, 주식회사 포켓몬, 크리처스, 게임프리크와 제휴·후원·승인 관계 없음. 포켓몬과 캐릭터 이름은 각 소유자의 상표. © 1995-2026 Nintendo / Creatures Inc. / GAME FREAK inc. 스프라이트는 PMD SpriteCollab (CC BY-NC 4.0), 작가가 CHUNSOFT로 표시된 일부 원본은 © Spike Chunsoft.
+- 랭크 티어 아이콘 (`assets/tiers/`): 제작자가 제공한 이미지
