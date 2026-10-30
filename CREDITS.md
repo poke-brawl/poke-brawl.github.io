@@ -8,6 +8,7 @@
 - 온라인 계정: [supabase-js](https://github.com/supabase/supabase-js) 2.118.0 (MIT, `assets/lib/supabase-LICENSE.txt`)
 - 스토리 모드 GBA 에뮬레이터: [GBA.js](https://github.com/endrift/gbajs) (Jeffrey Pfau, 2-clause BSD, `assets/lib/gbajs-LICENSE.txt`), npm `gbajs` 1.1.2를 브라우저용으로 묶음(`tools/bundle-gbajs.js`). 함께 든 BIOS(`assets/lib/gbajs-bios.bin`)도 GBA.js가 직접 만든 대체 BIOS. 게임 롬은 들어 있지 않음
 - 영어·일본어 포켓몬·기술 이름, 2세대 포켓몬 능력치·배울 기술·기술 설명: [PokéAPI](https://pokeapi.co) 공개 데이터
+- 도구 아이콘(`assets/items`): [PokéAPI sprites](https://github.com/PokeAPI/sprites) 저장소의 도구 도트 (원작 게임의 도트, © Nintendo · Creatures · GAME FREAK)
 - 글꼴: [Galmuri](https://github.com/quiple/galmuri) (SIL Open Font License, `assets/fonts/ofl.md`).
 - 이 프로젝트는 비상업 개인 팬게임. 어떤 형태로도 판매·후원·광고 수익을 받지 않음.
 
