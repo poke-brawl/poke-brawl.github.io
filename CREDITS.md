@@ -10,6 +10,7 @@
 - 영어·일본어 포켓몬·기술 이름, 2세대 포켓몬 능력치·배울 기술·기술 설명: [PokéAPI](https://pokeapi.co) 공개 데이터
 - 도구 아이콘(`assets/items`): [PokéAPI sprites](https://github.com/PokeAPI/sprites) 저장소의 도구 도트 (원작 게임의 도트, © Nintendo · Creatures · GAME FREAK)
 - 글꼴: [Galmuri](https://github.com/quiple/galmuri) (SIL Open Font License, `assets/fonts/ofl.md`).
+- 타이틀 로고·VS 글자(`assets/logo`)는 [Black Han Sans](https://fonts.google.com/specimen/Black+Han+Sans)·[Dela Gothic One](https://fonts.google.com/specimen/Dela+Gothic+One)·Galmuri 글꼴(모두 SIL Open Font License)로 쓴 글자를 도트로 바꿔 만든 그림 (`tools/logo`).
 - 이 프로젝트는 비상업 개인 팬게임. 어떤 형태로도 판매·후원·광고 수익을 받지 않음.
 
 | No. | 종 | 스프라이트 | 초상화 |
