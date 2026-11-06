@@ -6,7 +6,6 @@
 - 그 밖의 작가가 그린 그림은 [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) 라이선스를 따름.
 - 온라인 연결: [PeerJS](https://github.com/peers/peerjs) 1.5.5 (MIT, `assets/lib/peerjs-LICENSE.txt`)
 - 온라인 계정: [supabase-js](https://github.com/supabase/supabase-js) 2.118.0 (MIT, `assets/lib/supabase-LICENSE.txt`)
-- 스토리 모드 GBA 에뮬레이터: [GBA.js](https://github.com/endrift/gbajs) (Jeffrey Pfau, 2-clause BSD, `assets/lib/gbajs-LICENSE.txt`), npm `gbajs` 1.1.2를 브라우저용으로 묶음(`tools/bundle-gbajs.js`). 함께 든 BIOS(`assets/lib/gbajs-bios.bin`)도 GBA.js가 직접 만든 대체 BIOS. 게임 롬은 들어 있지 않음
 - 영어·일본어 포켓몬·기술 이름, 2세대 포켓몬 능력치·배울 기술·기술 설명: [PokéAPI](https://pokeapi.co) 공개 데이터
 - 도구 아이콘(`assets/items`): [PokéAPI sprites](https://github.com/PokeAPI/sprites) 저장소의 도구 도트 (원작 게임의 도트, © Nintendo · Creatures · GAME FREAK) — 스칼렛·바이올렛 새 도구(펀치글러브 등)는 큰 그림을 30×30으로 줄여서 씀
 - 투사체·타격 효과 그림(`assets/fx`): [pixelfx](https://github.com/patch-gg/pixelfx) (Patch · Hugo Duprez, MIT, `assets/fx/pixelfx-LICENSE.txt`)의 불덩이·플라스마 탄·얼음 창·레이저·별·회전 원반·빛줄기 탄·타격 불꽃·급소·전기 타격·근접 궤적(베기·찌르기·올려치기·쓸기·X자 베기·할퀴기·회전 베기·둔한 충격)·마법 광선·벼락·운석·고드름·별똥·회오리·모이는 빛·치유 빛·보호막·마법진·룬 원·순간이동 빛·물보라·불꽃 링·번개 박수·나뭇잎 폭풍·서리 폭발·땅 가시·산성 튀김·마나 폭발·어둠 폭발·플라스마 폭발·깃털 효과를 그려 줄인 것 (`tools/build_pixelfx.py`)
