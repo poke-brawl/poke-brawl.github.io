@@ -8,7 +8,7 @@
 - 온라인 계정: [supabase-js](https://github.com/supabase/supabase-js) 2.118.0 (MIT, `assets/lib/supabase-LICENSE.txt`)
 - 영어·일본어 포켓몬·기술 이름, 2세대 포켓몬 능력치·배울 기술·기술 설명: [PokéAPI](https://pokeapi.co) 공개 데이터
 - 도구 아이콘(`assets/items`): [PokéAPI sprites](https://github.com/PokeAPI/sprites) 저장소의 도구 도트 (원작 게임의 도트, © Nintendo · Creatures · GAME FREAK) — 스칼렛·바이올렛 새 도구(펀치글러브 등)는 큰 그림을 30×30으로 줄여서 씀
-- 투사체·타격 효과 그림(`assets/fx`): [pixelfx](https://github.com/patch-gg/pixelfx) (Patch · Hugo Duprez, MIT, `assets/fx/pixelfx-LICENSE.txt`)의 불덩이·플라스마 탄·얼음 창·레이저·별·회전 원반·빛줄기 탄·타격 불꽃·급소·전기 타격·근접 궤적(베기·찌르기·올려치기·쓸기·X자 베기·할퀴기·회전 베기·둔한 충격)·마법 광선·벼락·운석·고드름·별똥·회오리·모이는 빛·치유 빛·보호막·마법진·룬 원·순간이동 빛·물보라·불꽃 링·번개 박수·나뭇잎 폭풍·서리 폭발·땅 가시·산성 튀김·마나 폭발·어둠 폭발·플라스마 폭발·깃털 효과를 그려 줄인 것 (`tools/build_pixelfx.py`)
+- 투사체·타격 효과 그림(`assets/fx`): [pixelfx](https://github.com/patch-gg/pixelfx) (Patch · Hugo Duprez, MIT, `assets/fx/pixelfx-LICENSE.txt`)의 불덩이·플라스마 탄·얼음 창·레이저·별·회전 원반·빛줄기 탄·타격 불꽃·급소·전기 타격·근접 궤적(베기·찌르기·올려치기·쓸기·X자 베기·할퀴기·회전 베기·둔한 충격)·마법 광선·벼락·운석·고드름·별똥·회오리·모이는 빛·치유 빛·보호막·마법진·룬 원·순간이동 빛·물보라·불꽃 링·번개 박수·나뭇잎 폭풍·서리 폭발·땅 가시·산성 튀김·마나 폭발·어둠 폭발·플라스마 폭발·깃털·상태 이상(불타기·독·전기·잠·얼음·혼란·매혹·저주·기절)·방패 막기·패리·연기·수집 폭발·수정 조각·가시·뿌리 덫·비·빛내림·눈·눈보라·안개·반딧불·불기둥·파도 효과를 그려 줄인 것 (`tools/build_pixelfx.py`)
 - 글꼴: [Galmuri](https://github.com/quiple/galmuri) (SIL Open Font License, `assets/fonts/ofl.md`).
 - 타이틀 로고·VS 글자(`assets/logo`)는 [Black Han Sans](https://fonts.google.com/specimen/Black+Han+Sans)·[Dela Gothic One](https://fonts.google.com/specimen/Dela+Gothic+One)·Galmuri 글꼴(모두 SIL Open Font License)로 쓴 글자를 도트로 바꿔 만든 그림 (`tools/logo`).
 - 이 프로젝트는 비상업 개인 팬게임. 어떤 형태로도 판매·후원·광고 수익을 받지 않음.
