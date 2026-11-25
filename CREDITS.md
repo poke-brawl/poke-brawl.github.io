@@ -646,6 +646,76 @@
 | #0647 | 케르디오 | baronessfaron | [mucrush](https://www.deviantart.com/mucrush), Ichor, [Fingernails](https://www.demirramon.com/@Fingernails) |
 | #0648 | 메로엣타 | baronessfaron, [Ariakyu](https://www.reddit.com/u/SoggyMinimum8386/s/0ULdU1GVNj) | [Morei](https://bsky.app/profile/murpia57.bsky.social), Deleca7755, Emboarger |
 | #0649 | 게노세크트 | Emboarger | [mucrush](https://www.deviantart.com/mucrush), chime |
+| #0650 | 도치마론 | [Emmuffin](https://twitter.com/Ernmuffin), [G〜](https://bsky.app/profile/justtr4sh.pmd.social) | [Noo](https://artfight.net/~NooNoo_Skidoo), [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0651 | 도치보구 | ◥θ┴θ◤, baronessfaron, [Soulja](https://twitter.com/OlSoulja) | baronessfaron |
+| #0652 | 브리가론 | [Soulja](https://twitter.com/OlSoulja) | [Soulja](https://twitter.com/OlSoulja) |
+| #0653 | 푸호꼬 | [Smalusion](https://twitter.com/Smalusion), [Emmuffin](https://twitter.com/Ernmuffin) | [Smalusion](https://twitter.com/Smalusion), [G〜](https://bsky.app/profile/justtr4sh.pmd.social) |
+| #0654 | 테르나 | [Emmuffin](https://twitter.com/Ernmuffin), baronessfaron | [Waffluffe](https://twitter.com/waffluffe), [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0655 | 마폭시 | [Jhony-Rex](https://www.deviantart.com/jhony-rex), [Emmuffin](https://twitter.com/Ernmuffin) | baronessfaron, [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0656 | 개구마르 | [Emmuffin](https://twitter.com/Ernmuffin) | C_Pariah, [Emmuffin](https://twitter.com/Ernmuffin), [G〜](https://bsky.app/profile/justtr4sh.pmd.social) |
+| #0657 | 개굴반장 | [Caitemis](https://caitemis-art.tumblr.com/) | baronessfaron, NOLASMOR |
+| #0658 | 개굴닌자 | [Jhony-Rex](https://www.deviantart.com/jhony-rex), ◥θ┴θ◤, [Soulja](https://twitter.com/OlSoulja) | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0659 | 파르빗 | [pi3.14](https://twitter.com/Pi_y_ranitas), baronessfaron | baronessfaron |
+| #0660 | 파르토 | [pi3.14](https://twitter.com/Pi_y_ranitas), [Soulja](https://twitter.com/OlSoulja) | [Aviivix](https://twitter.com/aviivix/), [Morei](https://bsky.app/profile/murpia57.bsky.social) |
+| #0661 | 화살꼬빈 | Axcel | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0662 | 불화살빈 | [Emmuffin](https://twitter.com/Ernmuffin), [Soulja](https://twitter.com/OlSoulja) | [Aviivix](https://twitter.com/aviivix/), [Chesyon](https://linktr.ee/chesyon), [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0663 | 파이어로 | [Michael12](https://www.deviantart.com/michael12dz), [Soulja](https://twitter.com/OlSoulja), [Emmuffin](https://twitter.com/Ernmuffin) | [G〜](https://bsky.app/profile/justtr4sh.pmd.social) |
+| #0664 | 분이벌레 | Riodise, baronessfaron | Emboarger, [G〜](https://bsky.app/profile/justtr4sh.pmd.social) |
+| #0665 | 분떠도리 | [Emmuffin](https://twitter.com/Ernmuffin), baronessfaron | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0666 | 비비용 | [Emmuffin](https://twitter.com/Ernmuffin) | Emboarger, [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0669 | 플라베베 | baronessfaron | baronessfaron |
+| #0670 | 플라엣테 | baronessfaron | baronessfaron |
+| #0671 | 플라제스 | baronessfaron | baronessfaron, [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0672 | 메이클 | [Emmuffin](https://twitter.com/Ernmuffin), [TawnySoup](https://linktr.ee/tawnysoup) | [Emmuffin](https://twitter.com/Ernmuffin), [TawnySoup](https://linktr.ee/tawnysoup) |
+| #0673 | 고고트 | JFain | [G〜](https://bsky.app/profile/justtr4sh.pmd.social) |
+| #0674 | 판짱 | baronessfaron | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0675 | 부란다 | [Soulja](https://twitter.com/OlSoulja) | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0676 | 트리미앙 | baronessfaron | [Aviivix](https://twitter.com/aviivix/), deltaflare, ◥θ┴θ◤, [NeonCityRain](https://neoncityrain.tumblr.com/) |
+| #0677 | 냐스퍼 | [NeroIntruder](https://twitter.com/NeroIntruder) | baronessfaron |
+| #0678 | 냐오닉스 | [NeroIntruder](https://twitter.com/NeroIntruder), [Emmuffin](https://twitter.com/Ernmuffin) | [NeroIntruder](https://twitter.com/NeroIntruder), [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0679 | 단칼빙 | JFain, [G〜](https://bsky.app/profile/justtr4sh.pmd.social), [Emmuffin](https://twitter.com/Ernmuffin) | namu, [Caitemis](https://caitemis-art.tumblr.com/), [G〜](https://bsky.app/profile/justtr4sh.pmd.social), [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0680 | 쌍검킬 | [Emmuffin](https://twitter.com/Ernmuffin) | baronessfaron |
+| #0681 | 킬가르도 | Top_Kec | baronessfaron, [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0682 | 슈쁘 | baronessfaron | baronessfaron |
+| #0683 | 프레프티르 | baronessfaron, stressparticles | baronessfaron |
+| #0684 | 나룸퍼프 | baronessfaron, [mixy:3](https://x.com/MixyPurple?s=20) | baronessfaron, [mixy:3](https://x.com/MixyPurple?s=20) |
+| #0685 | 나루림 | [mixy:3](https://x.com/MixyPurple?s=20) | baronessfaron, [mixy:3](https://x.com/MixyPurple?s=20) |
+| #0686 | 오케이징 | baronessfaron | [Aviivix](https://twitter.com/aviivix/), NOLASMOR |
+| #0687 | 칼라마네로 | [Soulja](https://twitter.com/OlSoulja), [pi3.14](https://twitter.com/Pi_y_ranitas), JFain | baronessfaron |
+| #0688 | 거북손손 | [Soulja](https://twitter.com/OlSoulja) | baronessfaron |
+| #0689 | 거북손데스 | [Soulja](https://twitter.com/OlSoulja) | [G〜](https://bsky.app/profile/justtr4sh.pmd.social), [Soulja](https://twitter.com/OlSoulja) |
+| #0690 | 수레기 | Top_Kec | baronessfaron |
+| #0691 | 드래캄 | baronessfaron | baronessfaron |
+| #0692 | 완철포 | [Jhony-Rex](https://www.deviantart.com/jhony-rex), baronessfaron | baronessfaron |
+| #0693 | 블로스터 | [Pink_no_tori](https://twitter.com/pink_avian_poke), baronessfaron | baronessfaron |
+| #0694 | 목도리키텔 | [Emmuffin](https://twitter.com/Ernmuffin), Leif | [Noo](https://artfight.net/~NooNoo_Skidoo) |
+| #0695 | 일레도리자드 | [Emmuffin](https://twitter.com/Ernmuffin) | [Noo](https://artfight.net/~NooNoo_Skidoo), [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0696 | 티고라스 | [NeroIntruder](https://twitter.com/NeroIntruder), baronessfaron | [NeroIntruder](https://twitter.com/NeroIntruder) |
+| #0697 | 견고라스 | [Soulja](https://twitter.com/OlSoulja) | [NeroIntruder](https://twitter.com/NeroIntruder) |
+| #0698 | 아마루스 | [Emmuffin](https://twitter.com/Ernmuffin) | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0699 | 아마루르가 | [Emmuffin](https://twitter.com/Ernmuffin) | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0700 | 님피아 | baronessfaron | [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0701 | 루차불 | [Emmuffin](https://twitter.com/Ernmuffin) | [Soulja](https://twitter.com/OlSoulja) |
+| #0702 | 데덴네 | Inv3rse, baronessfaron | [Emmuffin](https://twitter.com/Ernmuffin), Top_Kec |
+| #0703 | 멜리시 | [Caitemis](https://caitemis-art.tumblr.com/) | baronessfaron, [G〜](https://bsky.app/profile/justtr4sh.pmd.social), [Emmuffin](https://twitter.com/Ernmuffin) |
+| #0704 | 미끄메라 | [Emmuffin](https://twitter.com/Ernmuffin) | [RacieB](https://twitter.com/RacieBeep) |
+| #0705 | 미끄네일 | [NeroIntruder](https://twitter.com/NeroIntruder), [Emmuffin](https://twitter.com/Ernmuffin) | baronessfaron |
+| #0706 | 미끄래곤 | [Emmuffin](https://twitter.com/Ernmuffin) | baronessfaron |
+| #0707 | 클레피 | ◥θ┴θ◤, [Emmuffin](https://twitter.com/Ernmuffin) | baronessfaron, ◥θ┴θ◤ |
+| #0708 | 나목령 | [Emmuffin](https://twitter.com/Ernmuffin), ShyStarryRain | baronessfaron |
+| #0709 | 대로트 | baronessfaron | baronessfaron |
+| #0710 | 호바귀 | baronessfaron | baronessfaron, [G〜](https://bsky.app/profile/justtr4sh.pmd.social) |
+| #0711 | 펌킨인 | JFain, baronessfaron | baronessfaron, JFain, [Soulja](https://twitter.com/OlSoulja) |
+| #0712 | 꽁어름 | baronessfaron | [Noivern](https://twitter.com/notarealnoivern) |
+| #0713 | 크레베이스 | baronessfaron | [Noivern](https://twitter.com/notarealnoivern) |
+| #0714 | 음뱃 | JFain, Emboarger, [G〜](https://bsky.app/profile/justtr4sh.pmd.social), baronessfaron | [Noivern](https://twitter.com/notarealnoivern) |
+| #0715 | 음번 | [Soulja](https://twitter.com/OlSoulja), Top_Kec | [Noivern](https://twitter.com/notarealnoivern) |
+| #0716 | 제르네아스 | baronessfaron | JkKU　(Jenrikku), Emboarger, baronessfaron, ◥θ┴θ◤ |
+| #0717 | 이벨타르 | Deleca7755, Top_Kec | Top_Kec |
+| #0718 | 지가르데 | [Soulja](https://twitter.com/OlSoulja), [Emmuffin](https://twitter.com/Ernmuffin), [Deeshura](https://bsky.app/profile/deeshura.bsky.social), DeltaL | Emboarger, [Noo](https://artfight.net/~NooNoo_Skidoo) |
+| #0719 | 디안시 | [Emmuffin](https://twitter.com/Ernmuffin) | baronessfaron |
+| #0720 | 후파 | programmedsleepstate | programmedsleepstate |
+| #0721 | 볼케니온 | Dejais | Top_Kec |
 
 포켓몬 브롤은 비공식·무료·비영리 팬게임 (광고·결제·후원 없음). 닌텐도, 주식회사 포켓몬, 크리처스, 게임프리크와 제휴·후원·승인 관계 없음. 포켓몬과 캐릭터 이름은 각 소유자의 상표. © 1995-2026 Nintendo / Creatures Inc. / GAME FREAK inc. 스프라이트는 PMD SpriteCollab (CC BY-NC 4.0), 작가가 CHUNSOFT로 표시된 일부 원본은 © Spike Chunsoft.
 - 랭크 티어 아이콘 (`assets/tiers/`): 제작자가 제공한 이미지
